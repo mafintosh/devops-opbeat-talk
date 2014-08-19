@@ -2,8 +2,4 @@
 
 my talk at the opbeat night at opbeat
 
-```
-npm install mafintosh/devops-opbeat-talk
-```
-
-the slides will be in `talk/`
+the slides are in `slides.txt` and as separate slids in `deck/`
